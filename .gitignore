@@ -1,1 +1,4 @@
 data/AirlineReviews.csv
+.env
+env/
+AirlineReviews.csv
